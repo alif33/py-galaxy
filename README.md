@@ -4,7 +4,7 @@
 
 
 <h3>Basic</h3>
-<span>
+<span style="margin-left: 100px">
   <a href="https://www.w3schools.com/python/python_strings.asp">Multiline Strings</a>,
   <a href="https://www.w3schools.com/python/python_strings.asp">Strings are Arrays</a>,
   <a href="https://www.w3schools.com/python/python_strings.asp">Looping Through a String</a>,
