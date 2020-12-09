@@ -1,8 +1,8 @@
-# python basic topics
+# py modules
 
 <h1>String</h1>
-
-<span style="padding-left: 100px">
+<h3>Basic</h3>
+<span>
 <a href="">Multiline Strings</a>,
 <a href="">Strings are Arrays</a>,
 <a href="">Looping Through a String</a>,
