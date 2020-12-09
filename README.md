@@ -1,1 +1,1 @@
-# py-galaxy
+# python basic topics
