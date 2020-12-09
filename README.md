@@ -1,7 +1,8 @@
 # python basic topics
 
 <h1>String</h1>
-<span>
+
+<span style="padding-left: 100px">
 <a href="">Multiline Strings</a>,
 <a href="">Strings are Arrays</a>,
 <a href="">Looping Through a String</a>,
