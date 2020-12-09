@@ -17,6 +17,13 @@
       <a href="https://www.w3schools.com/python/python_lists_access.asp">Negative Indexing</a>
     </span>
 
+  <h3>Change List Items</h3>
+    <span>
+      <a href="https://www.w3schools.com/python/python_lists_change.asp">Change Item Value</a>,
+      <a href="https://www.w3schools.com/python/python_lists_change.asp">Change a Range of Item Values</a>,
+      <a href="https://www.w3schools.com/python/python_lists_change.asp">Insert Items</a>,
+    </span>
+
 
 <h1>String</h1>
 
